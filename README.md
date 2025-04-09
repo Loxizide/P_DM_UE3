@@ -68,4 +68,6 @@ For any questions regarding this dataset, please contact [to be completed]
 Jupyter notebooks are provided for:
 - Data augmentation
 - Region of interest selection
-- Spectral preprocessing 
+- Spectral preprocessing
+
+## The link for presentation: https://www.canva.com/design/DAGkIAbHD4E/b5yLEt75wm3regi9fLeQQQ/edit?utm_content=DAGkIAbHD4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
